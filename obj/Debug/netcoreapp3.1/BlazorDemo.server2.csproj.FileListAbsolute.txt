@@ -1,0 +1,180 @@
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\BlazorDemo.server2.exe
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\BlazorDemo.server2.deps.json
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\BlazorDemo.server2.runtimeconfig.json
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\BlazorDemo.server2.runtimeconfig.dev.json
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\BlazorDemo.server2.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\BlazorDemo.server2.pdb
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\BlazorDemo.server2.Views.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\BlazorDemo.server2.Views.pdb
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.csprojAssemblyReference.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\staticwebassets\BlazorDemo.server2.StaticWebAssets.Manifest.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\staticwebassets\BlazorDemo.server2.StaticWebAssets.xml
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.MvcApplicationPartsAssemblyInfo.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorComponent.input.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\RazorDeclaration\BlazorDemo.server2.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.TagHelpers.input.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.TagHelpers.output.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorCoreGenerate.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorAssemblyInfo.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorAssemblyInfo.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.AssemblyInfoInputs.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.AssemblyInfo.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorTargetAssemblyInfo.cache
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorTargetAssemblyInfo.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.Views.pdb
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.pdb
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\BlazorDemo.server2.csproj.CopyComplete
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Customer.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\Razor\Pages\Customer.razor.g.cs
+D:\Tutorials\C# Blazor\blazor\blazorDemo.Server2\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+D:\Tutorials\C# Blazor\blazor\BlazorDemo.server2\obj\Debug\netcoreapp3.1\Razor\Pages\Logout.cshtml.g.cs
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\BlazorDemo.server2.exe
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\BlazorDemo.server2.deps.json
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\BlazorDemo.server2.runtimeconfig.json
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\BlazorDemo.server2.runtimeconfig.dev.json
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\BlazorDemo.server2.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\BlazorDemo.server2.pdb
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\BlazorDemo.server2.Views.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\BlazorDemo.server2.Views.pdb
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.csprojAssemblyReference.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\staticwebassets\BlazorDemo.server2.StaticWebAssets.Manifest.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\staticwebassets\BlazorDemo.server2.StaticWebAssets.xml
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.MvcApplicationPartsAssemblyInfo.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorComponent.input.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Customer.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ProductPage.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\BlazorDemo.server2.dll
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.TagHelpers.input.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.TagHelpers.output.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorCoreGenerate.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Pages\Customer.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Pages\ProductPage.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Pages\Logout.cshtml.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorAssemblyInfo.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorAssemblyInfo.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.AssemblyInfoInputs.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.AssemblyInfo.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorTargetAssemblyInfo.cache
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.RazorTargetAssemblyInfo.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.Views.pdb
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.csproj.CopyComplete
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.dll
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\BlazorDemo.server2.pdb
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ProductEditPage.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Pages\ProductEditPage.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\BlazorDemo.server2.StaticWebAssets.xml
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Blazored.Modal.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\BlazorDemo.server2_ClassReletionship\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Confirm.razor.g.cs
+D:\BlazorDemo.server2_ClassReletionship\obj\Debug\netcoreapp3.1\Razor\Shared\Confirm.razor.g.cs

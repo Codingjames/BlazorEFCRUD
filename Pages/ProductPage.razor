@@ -1,0 +1,154 @@
+@page "/productMgr"
+@using BlazorDemo.server2.Data
+
+
+@inject AppDbContext db
+@inject ILogger<ProductPage> logger
+  @* popup js *@
+@inject IJSRuntime JsRuntime
+  @* popup bootstrap *@
+@inject IModalService Modal
+
+<div class="card">
+  <div class="card-header">
+    Product Category Manager.
+  </div>
+  <div class="card-body">
+    <div class="col-sm-6" >
+        <div class="form-group">
+            <label for="tt">Product Category</label>
+            <input type="text" class="form-control" id="tt" @bind="ProductCateName" autocomplete="off" >
+            @* <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> *@
+        </div>
+        <button type="submit" class="btn btn-primary" @onclick="createProductCate">Create</button>
+    </div>
+    <div class="col-sm-6" >
+      <table class="">
+        <thead>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Date</th>
+          <th colspan="2">Options</th>
+          
+        </thead>
+        <tbody>
+          @if(isLoaded)
+          {
+            foreach (var item in cateList)
+           {
+                <tr>
+                  <td>@item.Id</td>
+                  <td>@item.CateName</td>
+                  <td>@item.CreatedDate</td>
+                  <td>
+                    <a class="btn-sm btn-primary" href="productCateEdit/@item.Id"   data-toggle="tooltip" title="Edit @(item.CateName)"><i class="fas fa-edit" ></i></a>
+                  </td>
+                  <td><a  @onclick="@(()=>CategoriesDeleteAsync(item.Id,item.CateName))" class="btn-sm btn-danger" ><i class="fas fa-trash"></i></a></td>  
+
+                </tr> 
+           }  
+          }
+          else
+          {
+              <div class="spinner-border text-primary" role="status">
+                <span class="sr-only">Loading...</span>
+              </div>
+          }
+          
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<hr />
+
+<div class="card">
+  <div class="card-header">
+    Product Manager.
+  </div>
+  <div class="card-body">
+    <div>
+        <div class="form-group">
+            <label for="tt">Product Category</label>
+            <input type="text" class="form-control" id="tt" >
+            @* <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> *@
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+@code{
+    bool isLoaded ;
+    string ProductCateName;
+    List<CategoryModel> cateList = new List<CategoryModel>();
+      
+    async Task CategoriesListAsync(){
+       cateList = await db.Categories.ToListAsync();
+    }
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+      if(firstRender)
+      {
+        await CategoriesListAsync();
+        isLoaded = true;
+        logger.LogInformation($"Categories successed");
+
+        StateHasChanged();
+
+      }
+    }
+@* Create Product Categories  *@
+    async void createProductCate()
+    {
+        isLoaded = false;
+      
+        var cate = new CategoryModel{
+            CateName = ProductCateName,
+            CreatedDate = DateTime.UtcNow
+        };
+
+        await db.AddAsync(cate);
+        await db.SaveChangesAsync();
+        await CategoriesListAsync();
+
+        isLoaded = true;
+        
+
+        @* ProductCateName = ""; *@
+        logger.LogInformation("Categories create successed.");
+        StateHasChanged();
+  
+    }
+
+    async Task CategoriesDeleteAsync(int id,string catenName)
+    {
+      bool confirm = await JsRuntime.InvokeAsync<bool>("confirm", "You will deleting {catenName}. Are you sure?");
+      if(confirm)
+      {
+         isLoaded = false ;
+        StateHasChanged();
+
+        var category = await db.Categories.FindAsync(id);
+
+        db.Remove(category);
+        await db.SaveChangesAsync();
+        logger.LogInformation("Categories deleted successed.");
+
+        await CategoriesListAsync();
+        isLoaded = true;
+        StateHasChanged();
+      }
+     
+
+
+    }
+  
+//End Code
+}

@@ -1,0 +1,71 @@
+@page "/productCateEdit"
+@page "/productCateEdit/{cateID:int}"
+
+
+@inject AppDbContext db
+@inject NavigationManager NavigationManager
+
+<h2> @cateId</h2>
+
+<div class="card">
+  <div class="card-header">
+    Product Category Editor.
+  </div>
+  <div class="card-body">
+    <div class="col-sm-6" >
+        <div class="form-group">
+            <label for="tt">Product Category</label>
+            <input type="text" class="form-control" id="tt" @bind="cateDetail.CateName" autocomplete="off" >
+            @* <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> *@
+        </div>
+        <button type="submit" class="btn btn-primary" @onclick="@(()=>updateProductCate(cateDetail.Id))">update</button>
+    </div>
+    <div class="col-sm-6" >
+    
+    </div>
+  </div>
+</div>
+
+
+
+
+@code 
+{
+    CategoryModel cateDetail = new CategoryModel();
+
+    [Parameter]
+    public int cateId { get; set; }
+    
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+            await getCateDetailByIdAsync();
+            
+            StateHasChanged();
+        }
+    }
+    async Task getCateDetailByIdAsync()
+    {
+         cateDetail = await db.Categories.FindAsync(cateId);
+    }
+
+    async Task updateProductCate(int id)
+    {
+
+        var update = await db.Categories.FirstOrDefaultAsync(x =>x.Id==id);
+        if(update!=null)
+        {
+            update.CateName = cateDetail.CateName;
+            db.Update(update);
+            await db.SaveChangesAsync();
+
+            NavigationManager.NavigateTo("productMgr");
+
+        }
+
+
+    }
+
+
+}

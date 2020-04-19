@@ -1,0 +1,36 @@
+@page "/Customer"
+@attribute [Authorize]
+
+// Inject DB
+@inject AppDbContext db
+@inject ILogger<Customer> logger
+
+<h1>Customer</h1>
+
+<div class="col-sm-12">
+    <div class="col-sm-6">
+
+            <div class="form-group">
+                <label for="usn">Username</label>
+                <input type="text" class="form-control" id="usn" @bind="name" >
+            </div>
+
+            <button type="submit" class="btn btn-primary" @onclick="createCustomer" >Create Customer</button>
+           
+
+    </div>
+</div>        
+@code{
+    string name;
+    async void createCustomer()
+    {
+        var cust = new BlazorDemo.server2.Data.Customer{ Name=name };
+
+        await db.AddAsync(cust);
+        int rs = await db.SaveChangesAsync();
+        Console.WriteLine(rs);
+
+        
+    }
+
+}
